@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "localhost",
+    "MONGO_PASSWORD": "",
+    "MONGO_DB": "graphql-api"
+  }
+}
